@@ -125,7 +125,7 @@ Models live and die on your terms. Prompts are visible. No cloud inference, no d
 Workflow:
 
 ```
-Prompt → Router → Vessel → Embed → Fast-RAG → Output
+Prompt → Router → Fast-RAG/Vessel or both → Output
 ```
 
 Everything runs on your metal. Fully portable. Fully yours.
